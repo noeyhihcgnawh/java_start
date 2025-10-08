@@ -13,3 +13,5 @@
 - **문제 (ScannerWhileEx1): 이름과 나이 반복**<br>
 - **문제 (ScannerWhileEx2): 상품 가격 계산**<br>
 - **문제 (ScannerWhileEx3): 입력한 숫자의 합계와 평균**<br>
+- **문제 (ScannerWhileEx4): 상품구매**<br>
+  - 초기 switch 문으로 구현하다가 if문으로 변경, case별로 각각 구동하는 switch문의 특성을 이해하지 못한 결과.

@@ -2,7 +2,7 @@ package Scanner.ex;
 
 import java.util.Scanner;
 
-public class ScanerWhileEx2 {
+public class ScannerWhileEx2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

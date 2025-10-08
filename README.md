@@ -12,3 +12,4 @@
 - **문제 (ScannerEx5): 사이 숫자**<br>
 - **문제 (ScannerWhileEx1): 이름과 나이 반복**<br>
 - **문제 (ScannerWhileEx2): 상품 가격 계산**<br>
+- **문제 (ScannerWhileEx3): 입력한 숫자의 합계와 평균**<br>
